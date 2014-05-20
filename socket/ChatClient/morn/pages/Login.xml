@@ -1,0 +1,6 @@
+<Dialog sceneWidth="600" sceneHeight="400" sceneColor="0xffffff" sceneBg="" layers="1,1,0,0,第 1 层">
+  <Image url="png.comp.bg" x="0" y="0" layer="1" width="300" height="100" sizeGrid="7,30,7,7"/>
+  <TextInput skin="png.comp.textinput" x="20" y="45" layer="1" height="30" font="consolas" size="20" width="170" var="nickName" sizeGrid="5,5,5,5"/>
+  <Label text="设置姓名" x="10" y="4" layer="1" bold="true"/>
+  <Button label="Login" skin="png.comp.button" x="205" y="45" layer="1" height="30" labelSize="15" labelFont="consolas" var="btnLogin"/>
+</Dialog>

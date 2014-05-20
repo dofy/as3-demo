@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:225f12a4b7039da8d2acc3254bd56055:fc29f6aefb0e0c77cfb35ae753dc6a1e:ddcbba42c2a559e6f34b704dd1ae0d05$ -->
+<TextureAtlas imagePath="ts.png">
+    <SubTexture name="btnDisable" x="2" y="2" width="100" height="30"/>
+    <SubTexture name="btnDown" x="104" y="2" width="100" height="30"/>
+    <SubTexture name="btnUp" x="206" y="2" width="100" height="30"/>
+    <SubTexture name="logo" x="2" y="34" width="254" height="45"/>
+</TextureAtlas>

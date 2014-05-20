@@ -1,0 +1,16 @@
+<Dialog sceneWidth="600" sceneHeight="400" sceneColor="0xffffff" sceneBg="" layers="1,1,0,0,第 1 层">
+  <Image url="png.comp.bg" x="0" y="0" layer="1" width="500" height="350" sizeGrid="6,30,6,6"/>
+  <Button skin="png.comp.btn_close" x="458" y="1" layer="1" name="close"/>
+  <Image url="png.comp.blank" x="6" y="2" layer="1" width="447" height="22" name="drag"/>
+  <List layers="1,1,0" layer="1" x="14" y="63" repeatY="3" spaceY="5" var="list" name="list2" repeatX="3" spaceX="5">
+    <Box layers="1,1,0" layer="1" name="render">
+      <Image url="png.comp.bg" layer="1" width="152" height="79"/>
+      <Button label="Buy" skin="png.comp.button" x="69" layer="1" name="btn" y="3"/>
+      <CheckBox label="label" skin="png.comp.checkbox" y="32" layer="1" name="combo" x="80"/>
+      <Image url="png.other.battle" x="22" y="6" layer="1" width="40" height="39"/>
+      <Label text="label" x="110" y="51" layer="1" name="num"/>
+      <ComboBox labels="1,2,3,4,5,6" skin="png.comp.combobox" y="51" layer="1" x="4"/>
+    </Box>
+    <VScrollBar skin="png.comp.vscroll" x="467" layer="1" width="17" height="198" name="scrollBar" y="9"/>
+  </List>
+</Dialog>

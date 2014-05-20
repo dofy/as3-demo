@@ -1,0 +1,5 @@
+<View sceneWidth="600" sceneHeight="400" sceneColor="0xffffff" sceneBg="" layers="1,1,0,0,第 1 层">
+  <ComboBox labels="label1,label2" skin="png.comp.combobox" x="87" y="92" layer="1" sizeGrid="3,3,20,3" var="cYear"/>
+  <ComboBox labels="label1,label2" skin="png.comp.combobox" x="194" y="92" layer="1" width="60" sizeGrid="3,3,20,3" var="cMonth"/>
+  <ComboBox labels="label1,label2" skin="png.comp.combobox" x="270" y="92" layer="1" sizeGrid="3,3,20,3" width="60" var="cDay"/>
+</View>

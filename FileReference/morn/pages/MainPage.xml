@@ -1,0 +1,4 @@
+<View sceneWidth="600" sceneHeight="400" sceneColor="0xffffff" sceneBg="" layers="1,1,0,0,第 1 层">
+  <Button label="Open" skin="png.comp.button" x="10" y="9" layer="1" var="btnOpen"/>
+  <Label text="LastFileName" x="94" y="10" layer="1" autoSize="left" var="lblFilename"/>
+</View>

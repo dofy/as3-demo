@@ -1,0 +1,9 @@
+<Dialog sceneWidth="400" sceneHeight="400" sceneColor="0xffffff" sceneBg="" layers="1,1,0" dragArea="0,0,400,30">
+  <Image url="png.comp.bg" x="0" y="3" layer="1" width="400" height="400" sizeGrid="4,26,4,4"/>
+  <Button skin="png.comp.btn_close" x="361" y="3" layer="1" name="close"/>
+  <List layers="1,1,0" layer="1" x="20" y="40" repeatX="5" repeatY="5" spaceX="15" spaceY="10" var="toolList">
+    <Box layers="1,1,0" layer="1" name="render" x="0" y="0">
+      <Image url="png.other.streng" layer="1" width="60" height="60" name="icon"/>
+    </Box>
+  </List>
+</Dialog>
