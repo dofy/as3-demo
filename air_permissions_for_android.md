@@ -1,6 +1,6 @@
 ```<manifestAdditions>
 <![CDATA[<manifest>
-访问网络
+<!-- 访问网络 -->
 <uses-permission android:name="android.permission.INTERNET"/>
 <!-- 读写 SD 卡 -->
 <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
